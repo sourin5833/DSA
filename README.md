@@ -49,4 +49,4 @@
 | 44 | Sort An Array | Leetcode | <a href="https://leetcode.com/problems/sort-an-array/">Link</a> | [sort_logn.java](sort_logn.java) |
 | 45 | Senior Citizens | Leetcode | <a href="https://leetcode.com/problems/number-of-senior-citizens">Link</a> | [senior.java](senior.java) |
 | 46 | Equal Reverse Subarrays | Leetcode | <a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays">Link</a> | [subarray_reverese_equal.java](subarray_reverese_equal.java) |
-| 47 | 
+| 47 | Sum of Sorted Subarray Sum | Leetcode | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums">Link</a> | [sorted_subarr_sum.java](sorted_subarr_sum.java) |
