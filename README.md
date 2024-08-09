@@ -50,3 +50,5 @@
 | 45 | Senior Citizens | Leetcode | <a href="https://leetcode.com/problems/number-of-senior-citizens">Link</a> | [senior.java](senior.java) |
 | 46 | Equal Reverse Subarrays | Leetcode | <a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays">Link</a> | [subarray_reverese_equal.java](subarray_reverese_equal.java) |
 | 47 | Sum of Sorted Subarray Sum | Leetcode | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums">Link</a> | [sorted_subarr_sum.java](sorted_subarr_sum.java) |
+| 48 | Kth Distinct String | Leetcode | <a href="https://leetcode.com/problems/kth-distinct-string-in-an-array">Link</a> | [kth_unique_string.java](kth_unique_string.java) |
+| 49 | Keypad Mobile Typing | Leetcode | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii">Link</a> | [mobile_type.java](mobile_type.java) |
