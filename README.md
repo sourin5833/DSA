@@ -52,3 +52,4 @@
 | 47 | Sum of Sorted Subarray Sum | Leetcode | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums">Link</a> | [sorted_subarr_sum.java](sorted_subarr_sum.java) |
 | 48 | Kth Distinct String | Leetcode | <a href="https://leetcode.com/problems/kth-distinct-string-in-an-array">Link</a> | [kth_unique_string.java](kth_unique_string.java) |
 | 49 | Keypad Mobile Typing | Leetcode | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii">Link</a> | [mobile_type.java](mobile_type.java) |
+| 50 | Integer To English Words | Leetcode | <a href="https://leetcode.com/problems/integer-to-english-words">Link</a> | [int_to_eng.java](int_to_eng.java) |
