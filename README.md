@@ -47,4 +47,6 @@
 | 42 | Search Insert Position | Leetcode | <a href="https://leetcode.com/problems/search-insert-position">Link</a> | [insert_position.java](insert_position.java) |
 | 43 | Ceil The Floor | Codestudio | <a href="https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401">Link</a> | [ceil_floor.java](ceil_floor.java) |
 | 44 | Sort An Array | Leetcode | <a href="https://leetcode.com/problems/sort-an-array/">Link</a> | [sort_logn.java](sort_logn.java) |
-| 45 | Senior Citizens | Leetcode | <a href="https://leetcode.com/problems/number-of-senior-citizens/description/">Link</a> | [senior.java](senior.java) |
+| 45 | Senior Citizens | Leetcode | <a href="https://leetcode.com/problems/number-of-senior-citizens">Link</a> | [senior.java](senior.java) |
+| 46 | Equal Reverse Subarrays | Leetcode | <a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays">Link</a> | [subarray_reverese_equal.java](subarray_reverese_equal.java) |
+| 47 | 
