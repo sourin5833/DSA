@@ -44,3 +44,6 @@
 | 40 | Move Zeroes To End | Leetcode | <a href="https://leetcode.com/problems/move-zeroes">Link</a> | [zeroes_to_end.java](zeroes_to_end.java) |
 | 41 | Implement Lower Bound | Codestudio | <a href="https://www.naukri.com/code360/problems/lower-bound_8165382">Link</a> | [lower_bound.java](lower_bound.java) |
 | 41 | Implement Upper Bound | Codestudio | <a href="https://www.naukri.com/code360/problems/implement-upper-bound_8165383">Link</a> | [upper_bound.java](upper_bound.java) |
+| 42 | Search Insert Position | Leetcode | <a href="https://leetcode.com/problems/search-insert-position">Link</a> | [insert_position.java](insert_position.java) |
+| 43 | Ceil The Floor | Codestudio | <a href="https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401">Link</a> | [ceil_floor.java](ceil_floor.java) |
+| 44 | Sort An Array | Leetcode | <a href="https://leetcode.com/problems/sort-an-array/">Link</a> | [sort_logn.java](sort_logn.java) |
