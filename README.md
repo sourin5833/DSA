@@ -50,3 +50,4 @@
 | 49 | Kth Distinct String | Leetcode | <a href="https://leetcode.com/problems/kth-distinct-string-in-an-array">Link</a> | [kth_unique_string.java](kth_unique_string.java) | ❌ |
 | 50 | Keypad Mobile Typing | Leetcode | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii">Link</a> | [mobile_type.java](mobile_type.java) | ❌ |
 | 51 | Integer To English Words | Leetcode | <a href="https://leetcode.com/problems/integer-to-english-words">Link</a> | [int_to_eng.java](int_to_eng.java) | ❌ |
+| 52 | Sum of Even Odd | Codestudio | <a href="https://www.naukri.com/code360/problems/sum-of-even-odd_624650">Link</a> | [sum_ev_od.java](sum_ev_od.java) | ❌ |
