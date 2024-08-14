@@ -53,3 +53,4 @@
 | 52 | Sum of Even Odd | Codestudio | <a href="https://www.naukri.com/code360/problems/sum-of-even-odd_624650">Link</a> | [sum_ev_od.java](sum_ev_od.java) | ❌ |
 | 53 | Search In Rotated Sorted Array | Leetcode | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Link</a> | [bs_rotate.java](bs_rotate.java) | ❌ |
 | 54 | Minimum In Rotated Sorted Array | Leetcode | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Link</a> | [small_rotated_array.java](small_rotated_array.java) | ❌ |
+| 55 | Number of Rotations Using BS | Codestudio | <a href="https://www.naukri.com/code360/problems/rotation_7449070">Link</a> | [rotation_bs.java](rotation_bs.java) | ❌ |
