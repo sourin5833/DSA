@@ -1,6 +1,6 @@
 | SL No. | Problem Name  | Platform           | Link           | Location | Revised |
 |--------------------------|--------------------------|----------------------------|-----------------------------|-----------------------------|-----------------------------|
-| 1 |Largest Element in an Array | Codestudio |  <a href="https://www.naukri.com/code360/problems/largest-element-in-the-array-largest-element-in-the-array_5026279?leftPanelTabValue=PROBLEM" >Link</a>        | [largest.java](largest.java) | ❌ |
+| 1 |Largest Element in an Array | Codestudio |  <a href="https://www.naukri.com/code360/problems/largest-element-in-the-array-largest-element-in-the-array_5026279?leftPanelTabValue=PROBLEM" >Link</a>| [largest.java](largest.java) | ❌ |
 | 2 |Second Largest Element in an Array | Codestudio   | <a href="https://www.naukri.com/code360/problems/ninja-and-the-second-order-elements_6581960" >Link</a>       | [second_largest.java](second_largest.java) | ❌ |
 | 3 |Check if the array is sorted | Codestudio | <a href="https://www.naukri.com/code360/problems/ninja-and-the-sorted-check_6581957" >Link</a>    | [sorted_check.java](sorted_check.java) | ❌ |
 | 4 | Remove duplicates from Sorted array | Codestudio | <a href="https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307" >Link</a> | [remove_duplicates.java](remove_duplicates.java) | ❌ |
@@ -54,3 +54,4 @@
 | 53 | Search In Rotated Sorted Array | Leetcode | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Link</a> | [bs_rotate.java](bs_rotate.java) | ❌ |
 | 54 | Minimum In Rotated Sorted Array | Leetcode | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Link</a> | [small_rotated_array.java](small_rotated_array.java) | ❌ |
 | 55 | Number of Rotations Using BS | Codestudio | <a href="https://www.naukri.com/code360/problems/rotation_7449070">Link</a> | [rotation_bs.java](rotation_bs.java) | ❌ |
+| 56 | Single Element In Sorted Array | Leetcode | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Link</a> | [unique_bs.java](unique_bs.java) | ❌ |
