@@ -55,3 +55,4 @@
 | 54 | Minimum In Rotated Sorted Array | Leetcode | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Link</a> | [small_rotated_array.java](small_rotated_array.java) | ❌ |
 | 55 | Number of Rotations Using BS | Codestudio | <a href="https://www.naukri.com/code360/problems/rotation_7449070">Link</a> | [rotation_bs.java](rotation_bs.java) | ❌ |
 | 56 | Single Element In Sorted Array | Leetcode | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Link</a> | [unique_bs.java](unique_bs.java) | ❌ |
+| 57 | Maximum Distance In Arrays | Leetcode | <a href="https://leetcode.com/problems/maximum-distance-in-arrays">Link</a> | [max_dist_arrays.java](max_dist_arrays.java) | ❌ |
