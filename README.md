@@ -58,3 +58,4 @@
 | 57 | Maximum Distance In Arrays | Leetcode | <a href="https://leetcode.com/problems/maximum-distance-in-arrays">Link</a> | [max_dist_arrays.java](max_dist_arrays.java) | ❌ |
 | 58 | Password Validation | Codestudio | <a href="https://www.naukri.com/code360/problems/program-to-check-the-validity-of-a-password_1263695">Link</a> | [password_valid.java](password_valid.java) | ❌ |
 | 59 | Introduction to Linked List | Codestudio | <a href="https://www.naukri.com/code360/problems/introduction-to-linked-list_8144737">Link</a> | [intro_LL.java](intro_LL.java) | ❌ |
+| 60 | Insert Node At Beginning | Codestudio | <a href="https://www.naukri.com/code360/problems/insert-node-at-the-beginning_8144739">Link</a> | [insert_0_LL.java](insert_0_LL.java) | ❌ |
