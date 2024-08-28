@@ -64,3 +64,4 @@
 | 63 | Number Complement | Leetcode | <a href="https://leetcode.com/problems/number-complement">Link</a> | [complement.java](complement.java) | ❌ |
 | 64 | N-ary Tree Postorder Traversal | Leetcode | <a href="https://leetcode.com/problems/n-ary-tree-postorder-traversal">Link</a> | [npostorder.java](npostorder.java) | ❌ |
 | 65 | Delete a Node in Linked List | Leetcode | <a href="https://leetcode.com/problems/delete-node-in-a-linked-list">Link</a> | [del_node.java](del_node.java) | ❌ |
+| 66 | Formation of a Doubly LL | Codestudio | <a href="https://www.naukri.com/code360/problems/introduction-to-doubly-linked-list_8160413">Link</a> | [dll.java](dll.java) | ❌ |
