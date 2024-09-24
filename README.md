@@ -67,3 +67,4 @@
 | 66 | Formation of a Doubly LL | Codestudio | <a href="https://www.naukri.com/code360/problems/introduction-to-doubly-linked-list_8160413">Link</a> | [dll.java](dll.java) | ❌ |
 | 67 | Insert Node At End DLL | Codestudio | <a href="https://www.naukri.com/code360/problems/insert-at-end-of-doubly-linked-list_8160464">Link</a> | [insert_end_dll.java](insert_end_dll.java) | ❌ |
 | 68 | Delete Node At End DLL | Codestudio | <a href="https://www.naukri.com/code360/problems/delete-last-node-of-a-doubly-linked-list_8160469">Link</a> | [delete_end_dll.java](delete_end_dll.java) | ❌ |
+| 69 | Implement Stack Using Arrays | Codestudio | <a href="https://www.naukri.com/code360/problems/stack-implementation-using-array_3210209">Link</a> | [stack_arr.java](stack_arr.java) |  ❌ | 
