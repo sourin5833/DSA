@@ -69,5 +69,5 @@
 | 68 | Delete Node At End DLL | Codestudio | <a href="https://www.naukri.com/code360/problems/delete-last-node-of-a-doubly-linked-list_8160469">Link</a> | [delete_end_dll.java](delete_end_dll.java) | ❌ |
 | 69 | Implement Stack Using Arrays | Codestudio | <a href="https://www.naukri.com/code360/problems/stack-implementation-using-array_3210209">Link</a> | [stack_arr.java](stack_arr.java) |  ❌ | 
 | 70 | Implement Queue Using Arrays | Codestudio | <a href="https://www.naukri.com/code360/problems/implement-queue-using-arrays_8390825?">Link</a> |  [queue_arr.java](queue_arr.java) | ❌ |
-| 71 | Implment Stack Using Queue | Leetcode | <a href="">Link</a> | [stack_using_queue.java](stack_using_queue.java) | ❌ |
+| 71 | Implment Stack Using Queue | Leetcode | <a href="https://leetcode.com/problems/implement-stack-using-queues/">Link</a> | [stack_using_queue.java](stack_using_queue.java) | ❌ |
 | 72 | Implment Queue Using Stack | Leetcode | <a href="https://leetcode.com/problems/implement-queue-using-stacks/">Link</a> | [queue_using_stack.java](queue_using_stack.java) | ❌ |
